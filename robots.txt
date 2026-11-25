@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://branko8900.github.io/kalina.demo/sitemap.xml

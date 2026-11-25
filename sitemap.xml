@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://branko8900.github.io/kalina.demo/</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://branko8900.github.io/kalina.demo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://branko8900.github.io/kalina.demo/en/"/>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
+    <loc>https://branko8900.github.io/kalina.demo/en/</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://branko8900.github.io/kalina.demo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://branko8900.github.io/kalina.demo/en/"/>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+</urlset>
